@@ -1,0 +1,5 @@
+#Local VSCode configs for running and testing
+.vscode/
+
+#Dependecies
+node_modules
